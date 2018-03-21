@@ -1,0 +1,50 @@
+{
+  "_from": "dituhui-react-native-image-picker",
+  "_id": "dituhui-react-native-image-picker@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-u33T+ulCzaLWA/8TP8QyVRvX9EeYUQG4w4JOeoWwjPackaf2rfkp/9AuZoBfnSof8Jn92ZjAv5TyWK8JjMYF9w==",
+  "_location": "/dituhui-react-native-image-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "dituhui-react-native-image-picker",
+    "name": "dituhui-react-native-image-picker",
+    "escapedName": "dituhui-react-native-image-picker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dituhui-react-native-image-picker/-/dituhui-react-native-image-picker-1.0.0.tgz",
+  "_shasum": "fd3d2068816deb8b5fa3b6f366913691de54d915",
+  "_spec": "dituhui-react-native-image-picker",
+  "_where": "E:\\code\\Noode(demo)",
+  "author": {
+    "name": "dituhuiwupan"
+  },
+  "bugs": {
+    "url": "https://github.com/wudashuaige/dituhui-react-native-image-picker/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "dituhui react native image picker",
+  "homepage": "https://github.com/wudashuaige/dituhui-react-native-image-picker#readme",
+  "keywords": [
+    "dituhui"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "dituhui-react-native-image-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wudashuaige/dituhui-react-native-image-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="white_efefef">#efefef</color>
+    <color name="gray_b6b6b6">#b6b6b6</color>
+    <color name="blue_44C8DC">#44C8DC</color>
+
+
+    <!--全局统一使用的常规字体颜色-->
+    <color name="global_text_color_white">#FFFFFF</color>
+    <color name="global_text_color_black">#272A33</color>
+    <color name="global_text_color_gray">#828282</color>
+    <color name="global_text_color_blue">#44c8dc</color>
+
+
+    <color name="text_color_757575">#757575</color>
+    <color name="line_D8D8D8">#D8D8D8</color>
+</resources>

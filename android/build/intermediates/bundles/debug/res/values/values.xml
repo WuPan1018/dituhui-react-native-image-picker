@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_44C8DC">#44C8DC</color>
+    <color name="global_text_color_black">#272A33</color>
+    <color name="global_text_color_blue">#44c8dc</color>
+    <color name="global_text_color_gray">#828282</color>
+    <color name="global_text_color_white">#FFFFFF</color>
+    <color name="gray_b6b6b6">#b6b6b6</color>
+    <color name="line_D8D8D8">#D8D8D8</color>
+    <color name="text_color_757575">#757575</color>
+    <color name="white_efefef">#efefef</color>
+    <style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">#61c3e7</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#3d3d3d</item>
+        <!-- Used for the background -->
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="dialog_animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/anim_push</item>
+        <item name="android:windowExitAnimation">@anim/anim_pull</item>
+    </style>
+    <style name="dialog_map_option" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@drawable/shape_dialog_trans</item>
+        <!-- 自己想要的背景 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+</resources>

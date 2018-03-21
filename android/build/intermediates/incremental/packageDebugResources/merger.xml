@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res"/><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\build\generated\res\rs\debug"/><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res"><file name="anim_pull" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\anim\anim_pull.xml" qualifiers="" type="anim"/><file name="anim_push" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\anim\anim_push.xml" qualifiers="" type="anim"/><file name="selector_white" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\drawable\selector_white.xml" qualifiers="" type="drawable"/><file name="shape_dialog_trans" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\drawable\shape_dialog_trans.xml" qualifiers="" type="drawable"/><file name="shape_white_efefef" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\drawable\shape_white_efefef.xml" qualifiers="" type="drawable"/><file name="shape_white_fff" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\drawable\shape_white_fff.xml" qualifiers="" type="drawable"/><file name="dialog_person_avatar" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\layout\dialog_person_avatar.xml" qualifiers="" type="layout"/><file name="list_item" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\layout\list_item.xml" qualifiers="" type="layout"/><file path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\values\color.xml" qualifiers=""><color name="white_efefef">#efefef</color><color name="gray_b6b6b6">#b6b6b6</color><color name="blue_44C8DC">#44C8DC</color><color name="global_text_color_white">#FFFFFF</color><color name="global_text_color_black">#272A33</color><color name="global_text_color_gray">#828282</color><color name="global_text_color_blue">#44c8dc</color><color name="text_color_757575">#757575</color><color name="line_D8D8D8">#D8D8D8</color></file><file path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\values\styles.xml" qualifiers=""><style name="dialog_map_option" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@drawable/shape_dialog_trans</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style><style name="dialog_animation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/anim_push</item>
+        <item name="android:windowExitAnimation">@anim/anim_pull</item>
+    </style></file><file path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\values\themes.xml" qualifiers=""><style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        
+        <item name="colorAccent">#61c3e7</item>
+        
+        <item name="android:textColorPrimary">#3d3d3d</item>
+        
+        <item name="android:background">@android:color/white</item>
+    </style></file><file name="provider_paths" path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\main\res\xml\provider_paths.xml" qualifiers="" type="xml"/></source><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\build\generated\res\rs\debug"/><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\10148\Desktop\react-native-image-picker-develop\android\src\debug\res"/></dataSet><mergedItems/></merger>
